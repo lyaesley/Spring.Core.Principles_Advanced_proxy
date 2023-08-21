@@ -1,6 +1,6 @@
 package hello.proxy.common.service;
 
-public interface ServgiceInterface {
+public interface ServiceInterface {
 
     void save();
     void find();
